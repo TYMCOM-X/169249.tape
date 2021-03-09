@@ -1,0 +1,574 @@
+1-APR-87 19:13:50  ** Session begins: TAKEIT version 47.
+1-APR-87 19:13:50  * Username: CARL
+1-APR-87 19:14:03  HANG 
+1-APR-87 19:14:05  * Killed job 3, user OPER <CRSHI1> SL
+1-APR-87 19:14:05  * Evicted job 4, user PERPOPER <XEXEC> RN
+1-APR-87 19:14:05  * Evicted job 5, user LPQ <AUXSPL> RN
+1-APR-87 19:14:09  * System shut (0 -> 400000)
+1-APR-87 19:14:09  * Evicted job 2, user OPER <CHKPNT> ML
+1-APR-87 19:14:14  * Hanging system...
+1-APR-87 19:14:14  ** Session ends.
+
+6-MAR-87 17:53:20  ** Session begins: TAKEIT version 47.
+6-MAR-87 17:53:20  * Username: JMS
+6-MAR-87 17:53:40  RELOAD 0 SYSTEM
+6-MAR-87 17:53:42  * Countdown = 0 minutes, Grace = 1
+6-MAR-87 17:53:42  * Reloading X930-P035/B01 from (SYS)SYSTEM
+6-MAR-87 17:53:43  * System super shut (0 -> 600000)
+6-MAR-87 17:53:44  * Killed job 3, user TXSTEXT <LOGON> ^C
+6-MAR-87 17:53:45  * Evicted job 4, user PERPOPER <XEXEC> RN
+6-MAR-87 17:53:48  * Evicted job 5, user  <LOGOUT> ^C
+6-MAR-87 17:53:51  * Evicted job 2, user OPER <CHKPNT> ML
+6-MAR-87 17:53:55  * Reloading system...
+6-MAR-87 17:53:55  ** Session ends.
+
+19-FEB-87 17:38:52  ** Session begins: TAKEIT version 47.
+19-FEB-87 17:38:52  * Username: JMS
+19-FEB-87 17:38:55  RELOAD 0 SYSTEM
+19-FEB-87 17:38:57  * Countdown = 0 minutes, Grace = 1
+19-FEB-87 17:38:57  * Reloading X930-P035/B01 from (SYS)SYSTEM
+19-FEB-87 17:38:58  * System super shut (0 -> 600000)
+19-FEB-87 17:38:58  * Evicted job 3, user LPQ <AUXSPL> RN
+19-FEB-87 17:38:58  * Evicted job 4, user OPER <XEXEC> RN
+19-FEB-87 17:39:05  * Evicted job 2, user OPER <CHKPNT> TS
+19-FEB-87 17:39:10  * Reloading system...
+19-FEB-87 17:39:10  ** Session ends.
+
+19-FEB-87 11:00:52  ** Session begins: TAKEIT version 47.
+19-FEB-87 11:00:52  * Username: JMS
+19-FEB-87 11:01:00  QUIT 
+19-FEB-87 11:01:00  ** Session ends.
+
+22-JAN-87 21:41:45  ** Session begins: TAKEIT version 47.
+22-JAN-87 21:41:45  * Username: JMS
+22-JAN-87 21:41:46  * Another job set SCHED 400000 from 0
+22-JAN-87 21:41:53  DSKCLN FULL
+22-JAN-87 21:41:53  DSKCLN: full[hang] default[crash]
+22-JAN-87 21:41:56  DSKCLN FULL CRASH
+22-JAN-87 21:41:56  DSKCLN: full
+22-JAN-87 21:42:07  BOOTS SYSTEM
+22-JAN-87 21:42:08  BOOTS: (SYS)SYSTEM[hang] default[crash]
+22-JAN-87 21:42:11  BOOTS SYSTEM CRASH
+22-JAN-87 21:42:12  BOOTS: (SYS)SYSTEM
+22-JAN-87 21:42:18  CRASH 
+22-JAN-87 21:42:22  * Crashing system.
+22-JAN-87 21:42:22  ** Session ends.
+
+22-JAN-87 20:25:48  ** Session begins: TAKEIT version 47.
+22-JAN-87 20:25:48  * Username: JMS
+22-JAN-87 20:25:50  HANG 
+22-JAN-87 20:25:51  * Evicted job 4, user OPER <XEXEC> RN
+22-JAN-87 20:25:58  * System shut (0 -> 400000)
+22-JAN-87 20:25:58  * Evicted job 2, user OPER <CHKPNT> TS
+22-JAN-87 20:26:01  * Hanging system...
+22-JAN-87 20:26:01  ** Session ends.
+
+22-JAN-87 17:58:40  ** Session begins: TAKEIT version 47.
+22-JAN-87 17:58:40  * Username: JMS
+22-JAN-87 17:58:40  * Another job set SCHED 600000 from 0
+22-JAN-87 17:58:43  DSKCLN FULL
+22-JAN-87 17:58:43  DSKCLN: full[hang] default[crash]
+22-JAN-87 17:58:50  DSKCLN FULL CRASH
+22-JAN-87 17:58:50  DSKCLN: full
+22-JAN-87 17:58:56  BOOTS SYSTEM
+22-JAN-87 17:58:56  BOOTS: (SYS)SYSTEM[hang] default[crash]
+22-JAN-87 17:59:00  BOOTS SYSTEM CRASH
+22-JAN-87 17:59:00  BOOTS: (SYS)SYSTEM
+22-JAN-87 17:59:03  CRASH 
+22-JAN-87 17:59:04  * Crashing system.
+22-JAN-87 17:59:04  ** Session ends.
+
+22-JAN-87 17:28:28  ** Session begins: TAKEIT version 47.
+22-JAN-87 17:28:28  * Username: JMS
+22-JAN-87 17:28:33  DSKCLN FULL CRASH HANG
+22-JAN-87 17:28:36  DSKCLN FULL
+22-JAN-87 17:28:36  DSKCLN: full[hang] default[crash]
+22-JAN-87 17:28:41  DSKCLN FULL CRASH
+22-JAN-87 17:28:41  DSKCLN: full
+22-JAN-87 17:28:48  BOOTS SYSTEM
+22-JAN-87 17:28:48  BOOTS: (SYS)SYSTEM[hang] default[crash]
+22-JAN-87 17:28:53  BOOTS SYSTEM CRASH
+22-JAN-87 17:28:53  BOOTS: (SYS)SYSTEM
+22-JAN-87 17:29:30  KILL 6
+22-JAN-87 17:29:30  * Killed job 6, user JMS <MHX:34> TI
+22-JAN-87 17:29:36  KILL 1
+22-JAN-87 17:29:36  * Evicted job 1, user LPQ <AUXSPL> SL
+22-JAN-87 17:31:00  ?no response to evict by job 1, user LPQ <AUXSPL> SL
+22-JAN-87 17:31:27  CRASH 
+22-JAN-87 17:31:29  * Crashing system.
+22-JAN-87 17:31:29  ** Session ends.
+
+22-JAN-87 14:06:34  ** Session begins: TAKEIT version 47.
+22-JAN-87 14:06:34  * Username: JMS
+22-JAN-87 14:06:38  DSKCLN FULL CRASH
+22-JAN-87 14:06:38  DSKCLN: default[hang] full[crash]
+22-JAN-87 14:06:41  DSKCLN FULL HANG
+22-JAN-87 14:06:41  DSKCLN: full
+22-JAN-87 14:06:48  BOOTS HANG SYSTEM
+22-JAN-87 14:06:48  BOOTS: (SYS)SYSTEM[hang] default[crash]
+22-JAN-87 14:06:53  BOOTS CRASH SYSTEM
+22-JAN-87 14:06:54  BOOTS: (SYS)SYSTEM
+22-JAN-87 14:06:55  CRASH 
+22-JAN-87 14:06:56  * Crashing system.
+22-JAN-87 14:06:56  ** Session ends.
+
+22-JAN-87 13:14:54  ** Session begins: TAKEIT version 47.
+22-JAN-87 13:14:54  * Username: JMS
+22-JAN-87 13:14:54  * Another job set SCHED 400000 from 0
+22-JAN-87 13:14:59  DSKCLN HANG FULL
+22-JAN-87 13:14:59  DSKCLN: full[hang] default[crash]
+22-JAN-87 13:15:04  DSKCLN CRASH FULL
+22-JAN-87 13:15:04  DSKCLN: full
+22-JAN-87 13:15:16  BOOTS SYSTEM
+22-JAN-87 13:15:16  BOOTS: (SYS)SYSTEM[hang] default[crash]
+22-JAN-87 13:15:26  BOOTS SYSTEM CRASH
+22-JAN-87 13:15:26  BOOTS: (SYS)SYSTEM
+22-JAN-87 13:15:40  CRASH 
+22-JAN-87 13:15:41  * Crashing system.
+22-JAN-87 13:15:41  ** Session ends.
+
+19-JAN-87 15:33:37  ** Session begins: TAKEIT version 47.
+19-JAN-87 15:33:37  * Username: JMS
+19-JAN-87 15:33:51  BOOTS HANG NEWMON
+19-JAN-87 15:33:51  BOOTS: (SYS)NEWMON[hang] default[crash]
+19-JAN-87 15:33:55  BOOTS CRASH NEWMON
+19-JAN-87 15:33:55  BOOTS: (SYS)NEWMON
+19-JAN-87 15:33:59  DSKCLN FULL CRASH
+19-JAN-87 15:33:59  DSKCLN: default[hang] full[crash]
+19-JAN-87 15:34:07  DSKCLN HANG FULL
+19-JAN-87 15:34:07  DSKCLN: full
+19-JAN-87 15:34:10  CRASH 
+19-JAN-87 15:34:11  * Crashing system.
+19-JAN-87 15:34:11  ** Session ends.
+
+19-JAN-87 14:36:21  ** Session begins: TAKEIT version 47.
+19-JAN-87 14:36:21  * Username: CARL
+19-JAN-87 14:36:22  HANG 
+19-JAN-87 14:36:23  * System shut (0 -> 400000)
+19-JAN-87 14:36:23  * Evicted job 2, user OPER <CHKPNT> SW
+19-JAN-87 14:36:26  * Hanging system...
+19-JAN-87 14:36:26  ** Session ends.
+
+19-JAN-87 14:32:06  ** Session begins: TAKEIT version 47.
+19-JAN-87 14:32:06  * Username: CARL
+19-JAN-87 14:32:07  HANG 
+19-JAN-87 14:32:12  * Evicted job 1, user LPQ <AUXSPL> SL
+19-JAN-87 14:32:12  * Evicted job 4, user OPER <XEXEC> RN
+19-JAN-87 14:32:12  * Killed job 6, user CARL <GFD> ^C
+19-JAN-87 14:32:12  * Evicted job 7, user JMS <TAUX> RN
+19-JAN-87 14:32:33  QUIT 
+19-JAN-87 14:32:33  ** Session ends.
+
+11-JAN-87 19:34:29  ** Session begins: TAKEIT version 47.
+11-JAN-87 19:34:29  * Username: JMS
+11-JAN-87 19:34:40  RELOAD 0 (M33)F3XA09
+11-JAN-87 19:34:42  * Countdown = 0 minutes, Grace = 1
+11-JAN-87 19:34:42  * Reloading X930-P035/A09 from (M33)F3XA09
+11-JAN-87 19:34:42  * System super shut (0 -> 600000)
+11-JAN-87 19:34:42  * Killed job 3, user OPER <CRSHID> TI
+11-JAN-87 19:34:42  * Evicted job 4, user OPER <XEXEC> RN
+11-JAN-87 19:35:13  * Killed job 5, user M33 <PIP> TI
+11-JAN-87 19:35:14  ?!FOSAA failure: job 5, user M33 <LOGOUT> RN
+11-JAN-87 19:35:42  * Evicted job 2, user OPER <CHKPNT> TS
+11-JAN-87 19:35:44  * Reloading system...
+11-JAN-87 19:35:44  ** Session ends.
+
+11-JAN-87 19:09:58  ** Session begins: TAKEIT version 47.
+11-JAN-87 19:09:59  * Username: JMS
+11-JAN-87 19:10:07  RELOAD 0 (M33)F3XA09
+11-JAN-87 19:10:10  * Countdown = 0 minutes, Grace = 1
+11-JAN-87 19:10:10  * Reloading X930-P035/A09 from (M33)F3XA09
+11-JAN-87 19:10:11  * System super shut (0 -> 600000)
+11-JAN-87 19:10:11  * Evicted job 4, user OPER <XEXEC> RN
+11-JAN-87 19:10:19  * Evicted job 2, user OPER <CHKPNT> TS
+11-JAN-87 19:10:22  * Reloading system...
+11-JAN-87 19:10:22  ** Session ends.
+
+11-JAN-87 19:00:40  ** Session begins: TAKEIT version 47.
+11-JAN-87 19:00:40  * Username: JMS
+11-JAN-87 19:00:48  RELOAD 0 (M33)F3XA09
+11-JAN-87 19:00:51  * Countdown = 0 minutes, Grace = 1
+11-JAN-87 19:00:51  * Reloading X930-P035/A09 from (M33)F3XA09
+11-JAN-87 19:00:51  * System super shut (0 -> 600000)
+11-JAN-87 19:00:52  * Evicted job 4, user OPER <XEXEC> RN
+11-JAN-87 19:00:58  * Evicted job 2, user OPER <CHKPNT> ML
+11-JAN-87 19:01:02  * Reloading system...
+11-JAN-87 19:01:02  ** Session ends.
+
+11-JAN-87 18:51:15  ** Session begins: TAKEIT version 47.
+11-JAN-87 18:51:15  * Username: JMS
+11-JAN-87 18:51:27  RELOAD 0 (M33)F3XA08
+11-JAN-87 18:51:29  * Countdown = 0 minutes, Grace = 1
+11-JAN-87 18:51:29  * Reloading X930-P035/A09 from (M33)F3XA08
+11-JAN-87 18:51:30  * System super shut (0 -> 600000)
+11-JAN-87 18:51:31  * Evicted job 4, user OPER <XEXEC> RN
+11-JAN-87 18:51:38  * Evicted job 2, user OPER <CHKPNT> ML
+11-JAN-87 18:51:42  * Reloading system...
+11-JAN-87 18:51:42  ** Session ends.
+
+11-JAN-87 18:06:38  ** Session begins: TAKEIT version 47.
+11-JAN-87 18:06:38  * Username: JMS
+11-JAN-87 18:06:46  RELOAD 0 (M33)F3XA09
+11-JAN-87 18:06:50  * Countdown = 0 minutes, Grace = 1
+11-JAN-87 18:06:50  * Reloading X930-P035/A09 from (M33)F3XA09
+11-JAN-87 18:06:51  * System super shut (0 -> 600000)
+11-JAN-87 18:06:51  led job 3, user JMS <OPER> ^C
+11-JAN-87 18:06:51  * Evicted job 4, user OPER <XEXEC> RN
+11-JAN-87 18:06:59  * Evicted job 2, user OPER <CHKPNT> TS
+11-JAN-87 18:07:03  * Reloading system...
+11-JAN-87 18:07:03  ** Session ends.
+
+11-JAN-87 16:54:57  ** Session begins: TAKEIT version 47.
+11-JAN-87 16:54:57  * Username: JMS
+11-JAN-87 16:55:03  RELOAD 0 NEWMON
+11-JAN-87 16:55:05  * Countdown = 0 minutes, Grace = 1
+11-JAN-87 16:55:05  * Reloading X930-P035/A09 from (SYS)NEWMON
+11-JAN-87 16:55:06  * System super shut (0 -> 600000)
+11-JAN-87 16:55:06  * Evicted job 4, user OPER <XEXEC> SL
+11-JAN-87 16:55:13  * Evicted job 2, user OPER <CHKPNT> ML
+11-JAN-87 16:55:17  * Reloading system...
+11-JAN-87 16:55:17  ** Session ends.
+
+11-JAN-87 16:02:49  ** Session begins: TAKEIT version 47.
+11-JAN-87 16:02:49  * Username: JMS
+11-JAN-87 16:02:53  RELOAD 0 NEWMON
+11-JAN-87 16:02:57  * Countdown = 0 minutes, Grace = 1
+11-JAN-87 16:02:57  * Reloading X930-P035/A09 from (SYS)NEWMON
+11-JAN-87 16:02:58  * System super shut (0 -> 600000)
+11-JAN-87 16:02:59  * Evicted job 4, user OPER <XEXEC> RN
+11-JAN-87 16:03:01  * Evicted job 2, user OPER <CHKPNT> TS
+11-JAN-87 16:03:05  * Reloading system...
+11-JAN-87 16:03:05  ** Session ends.
+
+11-JAN-87 16:01:14  ** Session begins: TAKEIT version 47.
+11-JAN-87 16:01:14  * Username: JMS
+11-JAN-87 16:01:16  QUIT 
+11-JAN-87 16:01:16  ** Session ends.
+
+12-DEC-86 18:18:55  ** Session begins: TAKEIT version 47.
+12-DEC-86 18:18:55  * Username: JMS
+12-DEC-86 18:19:05  RELOAD 0 (M33)F3XA06
+12-DEC-86 18:19:07  * Countdown = 0 minutes, Grace = 1
+12-DEC-86 18:19:07  * Reloading X930-P035/A06 from (M33)F3XA06
+12-DEC-86 18:19:08  * System super shut (0 -> 600000)
+12-DEC-86 18:19:08  * Evicted job 4, user OPER <XEXEC> RN
+12-DEC-86 18:19:27  KILL 3
+12-DEC-86 18:19:27  * Killed job 3, user M33 <PIP> TI
+12-DEC-86 18:19:30  * Evicted job 2, user OPER <CHKPNT> TS
+12-DEC-86 18:19:32  * Reloading system...
+12-DEC-86 18:19:32  ** Session ends.
+
+11-DEC-86 17:39:47  ** Session begins: TAKEIT version 47.
+11-DEC-86 17:39:47  * Username: JMS
+11-DEC-86 17:39:56  RELOAD 0 (M33)F3XA06
+11-DEC-86 17:39:58  * Countdown = 0 minutes, Grace = 1
+11-DEC-86 17:39:58  * Reloading X930-P035/A06 from (M33)F3XA06
+11-DEC-86 17:39:58  * System super shut (0 -> 600000)
+11-DEC-86 17:39:59  * Evicted job 4, user OPER <XEXEC> RN
+11-DEC-86 17:40:06  * Evicted job 2, user OPER <CHKPNT> SW
+11-DEC-86 17:40:09  * Reloading system...
+11-DEC-86 17:40:09  ** Session ends.
+
+10-DEC-86 18:00:13  ** Session begins: TAKEIT version 47.
+10-DEC-86 18:00:13  * Username: JMS
+10-DEC-86 18:00:22  RELOAD 0 (M33)F3XA05
+10-DEC-86 18:00:25  * Countdown = 0 minutes, Grace = 1
+10-DEC-86 18:00:25  * Reloading X930-P035/A05 from (M33)F3XA05
+10-DEC-86 18:00:26  * System super shut (0 -> 600000)
+10-DEC-86 18:00:26  * Evicted job 4, user OPER <XEXEC> RN
+10-DEC-86 18:00:34  * Evicted job 2, user OPER <CHKPNT> ML
+10-DEC-86 18:00:38  * Reloading system...
+10-DEC-86 18:00:38  ** Session ends.
+
+9-DEC-86 16:46:54  ** Session begins: TAKEIT version 47.
+9-DEC-86 16:46:54  * Username: JMS
+9-DEC-86 16:47:02  RELOAD 0 (M33)F3XA05
+9-DEC-86 16:47:05  * Countdown = 0 minutes, Grace = 1
+9-DEC-86 16:47:05  * Reloading X930-P035/A05 from (M33)F3XA05
+9-DEC-86 16:47:06  * System super shut (0 -> 600000)
+9-DEC-86 16:47:06  * Evicted job 4, user OPER <XEXEC> RN
+9-DEC-86 16:47:07  * Evicted job 6, user LPQ <AUXSPL> SL
+9-DEC-86 16:48:35  ?no response to evict by job 6, user LPQ <AUXSPL> SL
+9-DEC-86 16:48:37  * Evicted job 2, user OPER <CHKPNT> TS
+9-DEC-86 16:48:39  * Reloading system...
+9-DEC-86 16:48:39  ** Session ends.
+
+30-NOV-86 19:59:42  ** Session begins: TAKEIT version 47.
+30-NOV-86 19:59:42  * Username: JMS
+30-NOV-86 19:59:48  RELOAD 0 NEWMON
+30-NOV-86 19:59:51  * Countdown = 0 minutes, Grace = 1
+30-NOV-86 19:59:51  * Reloading X930-P035/A04 from (SYS)NEWMON
+30-NOV-86 19:59:51  * System super shut (0 -> 600000)
+30-NOV-86 19:59:51  * Evicted job 4, user OPER <XEXEC> SL
+30-NOV-86 19:59:53  * Killed job 5, user MAIL <MAIDER> ^C
+30-NOV-86 19:59:53  * Killed job 6, user MAID <ONTETP> ^C
+30-NOV-86 19:59:58  * Evicted job 2, user OPER <CHKPNT> SW
+30-NOV-86 19:59:59  * Reloading system...
+30-NOV-86 19:59:59  ** Session ends.
+
+19-NOV-86 18:06:18  ** Session begins: TAKEIT version 47.
+19-NOV-86 18:06:18  * Username: JMS
+19-NOV-86 18:06:31  RELOAD 0 (M33)F3XA03
+19-NOV-86 18:06:41  * Countdown = 0 minutes, Grace = 1
+19-NOV-86 18:06:41  * Reloading X930-P035/A03 from (M33)F3XA03
+19-NOV-86 18:06:41  * System super shut (0 -> 600000)
+19-NOV-86 18:06:41  * Evicted job 1, user OPER <EXECX> RN
+19-NOV-86 18:06:42  * Evicted job 4, user OPER <XEXEC> RN
+19-NOV-86 18:06:42  * Evicted job 6, user LPQ <AUXSPL> SL
+19-NOV-86 18:08:10  ?no response to evict by job 6, user LPQ <AUXSPL> SL
+19-NOV-86 18:08:12  * Evicted job 2, user OPER <CHKPNT> TS
+19-NOV-86 18:08:14  * Reloading system...
+19-NOV-86 18:08:14  ** Session ends.
+
+14-NOV-86 10:24:31  ** Session begins: TAKEIT version 47.
+14-NOV-86 10:24:31  * Username: JMS
+14-NOV-86 10:24:47  RELOAD 0 (M33)F3XA02
+14-NOV-86 10:24:50  * Countdown = 0 minutes, Grace = 1
+14-NOV-86 10:24:50  * Reloading X930-P035/A02 from (M33)F3XA02
+14-NOV-86 10:24:50  * System super shut (0 -> 600000)
+14-NOV-86 10:24:51  * Evicted job 4, user OPER <XEXEC> RN
+14-NOV-86 10:24:51  * Evicted job 5, user OPER <EXECX> RN
+14-NOV-86 10:24:51  * Evicted job 6, user LPQ <AUXSPL> SL
+14-NOV-86 10:26:19  ?no response to evict by job 6, user LPQ <AUXSPL> SL
+14-NOV-86 10:26:22  * Evicted job 2, user OPER <CHKPNT> TS
+14-NOV-86 10:26:23  * Reloading system...
+14-NOV-86 10:26:24  ** Session ends.
+
+10-NOV-86 17:31:30  ** Session begins: TAKEIT version 47.
+10-NOV-86 17:31:30  * Username: JMS
+10-NOV-86 17:31:43  RELOAD 0 (M33)F3XA02
+10-NOV-86 17:31:47  * Countdown = 0 minutes, Grace = 1
+10-NOV-86 17:31:47  * Reloading X930-P035/A02 from (M33)F3XA02
+10-NOV-86 17:31:47  * System super shut (0 -> 600000)
+10-NOV-86 17:31:48  * Evicted job 4, user OPER <XEXEC> RN
+10-NOV-86 17:31:55  * Evicted job 2, user OPER <CHKPNT> ML
+10-NOV-86 17:31:58  * Reloading system...
+10-NOV-86 17:31:58  ** Session ends.
+
+10-NOV-86 12:17:48  ** Session begins: TAKEIT version 47.
+10-NOV-86 12:17:48  * Username: JMS
+10-NOV-86 12:17:53  RELOAD 0 NEWMON
+10-NOV-86 12:17:57  * Countdown = 0 minutes, Grace = 1
+10-NOV-86 12:17:57  * Reloading X930-P035/A02 from (SYS)NEWMON
+10-NOV-86 12:17:58  * System super shut (0 -> 600000)
+10-NOV-86 12:17:58  * Evicted job 4, user OPER <XEXEC> RN
+10-NOV-86 12:18:05  * Evicted job 2, user OPER <CHKPNT> TS
+10-NOV-86 12:18:08  * Reloading system...
+10-NOV-86 12:18:08  ** Session ends.
+
+7-NOV-86 19:24:21  ** Session begins: TAKEIT version 47.
+7-NOV-86 19:24:21  * Username: JMS
+7-NOV-86 19:24:24  RELOAD 0 NEWMON
+7-NOV-86 19:24:27  * Countdown = 0 minutes, Grace = 1
+7-NOV-86 19:24:27  * Reloading X930-P035/A01 from (SYS)NEWMON
+7-NOV-86 19:24:28  * System super shut (0 -> 600000)
+7-NOV-86 19:24:29  * Evicted job 1, user OPER <EXECX> SW
+7-NOV-86 19:24:29  * Evicted job 4, user OPER <XEXEC> RN
+7-NOV-86 19:24:29  * Killed job 6, user CARL <MHX> TI
+7-NOV-86 19:24:29  * Killed job 7, user M33 <TELECO> TI
+7-NOV-86 19:24:30  * Killed job 10, user TXSTEXT <PEAK> ^C
+7-NOV-86 19:24:39  * Evicted job 2, user OPER <CHKPNT> TS
+7-NOV-86 19:24:42  * Reloading system...
+7-NOV-86 19:24:43  ** Session ends.
+
+29-OCT-86 12:11:21  ** Session begins: TAKEIT version 47.
+29-OCT-86 12:11:21  * Username: JMS
+29-OCT-86 12:11:30  RELOAD 0 (M33)F3035A
+29-OCT-86 12:11:33  * Countdown = 0 minutes, Grace = 1
+29-OCT-86 12:11:33  * Reloading X930-P035/A from (M33)F3035A
+29-OCT-86 12:11:34  * System super shut (0 -> 600000)
+29-OCT-86 12:11:34  * Evicted job 1, user OPER <EXECX> RN
+29-OCT-86 12:11:34  * Killed job 3, user FLETCHERC <SENDMA> ^C
+29-OCT-86 12:11:35  * Evicted job 4, user OPER <XEXEC> RN
+29-OCT-86 12:11:35  * Killed job 5, user SCAPIK <RDMAIL> ^C
+29-OCT-86 12:11:44  * Evicted job 2, user OPER <CHKPNT> TS
+29-OCT-86 12:11:48  * Reloading system...
+29-OCT-86 12:11:48  ** Session ends.
+
+29-OCT-86 01:34:07  ** Session begins: TAKEIT version 47.
+29-OCT-86 01:34:07  * Username: JMS
+29-OCT-86 01:34:20  RELOAD 0 NEWMON
+29-OCT-86 01:34:25  * Countdown = 0 minutes, Grace = 1
+29-OCT-86 01:34:25  * Reloading X930-P035/A from (SYS)NEWMON
+29-OCT-86 01:34:26  * System super shut (0 -> 600000)
+29-OCT-86 01:34:26  * Killed job 3, user OSMAN <TUMS> ^C
+29-OCT-86 01:34:26  * Evicted job 4, user OPER <XEXEC> SL
+29-OCT-86 01:34:26  * Evicted job 5, user OPER <EXECX> SW
+29-OCT-86 01:34:34  * Evicted job 2, user OPER <CHKPNT> ML
+29-OCT-86 01:34:37  * Reloading system...
+29-OCT-86 01:34:37  ** Session ends.
+
+30-SEP-86 20:43:52  ** Session begins: TAKEIT version 47.
+30-SEP-86 20:43:52  * Username: JMS
+30-SEP-86 20:44:03  RELOAD 0 NEWMON
+30-SEP-86 20:44:06  * Countdown = 0 minutes, Grace = 1
+30-SEP-86 20:44:06  * Reloading X930-P034/P37 from (SYS)NEWMON
+30-SEP-86 20:44:07  * System super shut (0 -> 600000)
+30-SEP-86 20:44:08  * Evicted job 1, user OPER <EXECX> RN
+30-SEP-86 20:44:08  * Killed job 3, user JMS <TITO> ^C
+30-SEP-86 20:44:08  * Evicted job 4, user OPER <XEXEC> RN
+30-SEP-86 20:44:16  * Evicted job 2, user OPER <CHKPNT> TS
+30-SEP-86 20:44:20  * Reloading system...
+30-SEP-86 20:44:20  ** Session ends.
+
+30-SEP-86 19:26:31  ** Session begins: TAKEIT version 47.
+30-SEP-86 19:26:31  * Username: JMS
+30-SEP-86 19:26:40  RELOAD 0 (M33)F3XP37
+30-SEP-86 19:26:42  * Countdown = 0 minutes, Grace = 1
+30-SEP-86 19:26:42  * Reloading X930-P034/P37 from (M33)F3XP37
+30-SEP-86 19:26:43  * System super shut (0 -> 600000)
+30-SEP-86 19:26:43  * Evicted job 4, user OPER <XEXEC> SL
+30-SEP-86 19:26:44  * Evicted job 5, user OPER <EXECX> RN
+30-SEP-86 19:26:51  * Evicted job 2, user OPER <CHKPNT> TS
+30-SEP-86 19:26:54  * Reloading system...
+30-SEP-86 19:26:54  ** Session ends.
+
+30-SEP-86 19:16:18  ** Session begins: TAKEIT version 47.
+30-SEP-86 19:16:18  * Username: JMS
+30-SEP-86 19:16:53  QUIT 
+30-SEP-86 19:16:53  ** Session ends.
+
+30-SEP-86 15:45:40  ** Session begins: TAKEIT version 47.
+30-SEP-86 15:45:40  * Opername: JMS, Username: JMS
+30-SEP-86 15:45:40  * Another job set SCHED 400000 from 0
+30-SEP-86 15:45:52  RELOAD 0 (M33)NEWMON
+30-SEP-86 15:45:56  * Countdown = 0 minutes, Grace = 1
+30-SEP-86 15:45:56  * Reloading X930-P034/P37 from (M33)NEWMON
+30-SEP-86 15:45:56  * System super shut (400000 -> 600000)
+30-SEP-86 15:45:57  * Evicted job 1, user OPER <EXECX> RN
+30-SEP-86 15:45:57  * Evicted job 4, user OPER <XEXEC> SL
+30-SEP-86 15:46:04  * Evicted job 2, user OPER <CHKPNT> TS
+30-SEP-86 15:46:07  * Reloading system...
+30-SEP-86 15:46:07  ** Session ends.
+
+30-SEP-86 14:28:59  ** Session begins: TAKEIT version 47.
+30-SEP-86 14:28:59  * Opername: JMS, Username: JMS
+30-SEP-86 14:29:10  RELOAD 0 (M33)F3XP37
+30-SEP-86 14:29:12  * Countdown = 0 minutes, Grace = 1
+30-SEP-86 14:29:12  * Reloading X930-P034/P37 from (M33)F3XP37
+30-SEP-86 14:29:13  * System super shut (0 -> 600000)
+30-SEP-86 14:29:13  * Evicted job 1, user OPER <EXECX> RN
+30-SEP-86 14:29:14  * Evicted job 4, user OPER <XEXEC> RN
+30-SEP-86 14:29:21  * Evicted job 2, user OPER <CHKPNT> TS
+30-SEP-86 14:29:24  * Reloading system...
+30-SEP-86 14:29:24  ** Session ends.
+
+30-SEP-86 13:52:23  ** Session begins: TAKEIT version 47.
+30-SEP-86 13:52:23  * Opername: JMS, Username: JMS
+30-SEP-86 13:54:00  RELOAD 0 (M33)F3XP37
+30-SEP-86 13:54:04  * Countdown = 0 minutes, Grace = 1
+30-SEP-86 13:54:04  * Reloading X930-P034/P37 from (M33)F3XP37
+30-SEP-86 13:54:05  * System super shut (0 -> 600000)
+30-SEP-86 13:54:05  * Evicted job 1, user OPER <XEXEC> RN
+30-SEP-86 13:54:05  * Evicted job 4, user OPER <EXECX> RN
+30-SEP-86 13:54:35  * Killed job 3, user JMS <TYPE> TI
+30-SEP-86 13:54:38  * Evicted job 2, user OPER <CHKPNT> SW
+30-SEP-86 13:54:39  * Reloading system...
+30-SEP-86 13:54:39  ** Session ends.
+
+18-SEP-86 13:54:33  ** Session begins: TAKEIT version 47.
+18-SEP-86 13:54:33  * Username: JMS
+18-SEP-86 13:54:42  RELOAD 0 (M33)F3XP36
+18-SEP-86 13:54:44  * Countdown = 0 minutes, Grace = 1
+18-SEP-86 13:54:44  * Reloading X930-P034/P36 from (M33)F3XP36
+18-SEP-86 13:54:45  * System super shut (0 -> 600000)
+18-SEP-86 13:54:45  * Evicted job 1, user OPER <EXECX> SW
+18-SEP-86 13:54:46  * Evicted job 4, user OPER <XEXEC> RN
+18-SEP-86 13:54:54  * Evicted job 2, user OPER <CHKPNT> TS
+18-SEP-86 13:54:56  * Reloading system...
+18-SEP-86 13:54:56  ** Session ends.
+
+17-SEP-86 16:34:00  ** Session begins: TAKEIT version 47.
+17-SEP-86 16:34:00  * Username: JMS
+17-SEP-86 16:34:13  QUIT 
+17-SEP-86 16:34:13  ** Session ends.
+
+17-SEP-86 14:40:04  ** Session begins: TAKEIT version 47.
+17-SEP-86 14:40:04  * Username: JMS
+17-SEP-86 14:40:05  RELOAD 
+17-SEP-86 14:40:13  RELOAD 0 (M33)F3XP36
+17-SEP-86 14:40:16  * Countdown = 0 minutes, Grace = 1
+17-SEP-86 14:40:16  * Reloading X930-P034/P36 from (M33)F3XP36
+17-SEP-86 14:40:16  * System super shut (0 -> 600000)
+17-SEP-86 14:40:16  * Killed job 1, user OPER <FREE> SL
+17-SEP-86 14:40:17  * Killed job 3, user CARL <TUMS> ^C
+17-SEP-86 14:40:17  * Evicted job 4, user OPER <XEXEC> RN
+17-SEP-86 14:40:17  * Evicted job 5, user OPER <EXECX> RN
+17-SEP-86 14:40:17  * Killed job 7, user JMS <DI> ^C
+17-SEP-86 14:40:17  * Killed job 8, user CARL <NODLOD> ^C
+17-SEP-86 14:40:27  * Evicted job 2, user OPER <CHKPNT> ML
+17-SEP-86 14:40:30  * Reloading system...
+17-SEP-86 14:40:30  ** Session ends.
+
+8-SEP-86 18:46:28  ** Session begins: TAKEIT version 47.
+8-SEP-86 18:46:28  * Username: JMS
+8-SEP-86 18:46:35  RELOAD 0 (M33)F3XP35
+8-SEP-86 18:46:37  * Countdown = 0 minutes, Grace = 1
+8-SEP-86 18:46:37  * Reloading X930-P034/P35 from (M33)F3XP35
+8-SEP-86 18:46:38  * System super shut (0 -> 600000)
+8-SEP-86 18:46:38  * Evicted job 4, user OPER <XEXEC> RN
+8-SEP-86 18:46:38  * Evicted job 5, user OPER <EXECX> RN
+8-SEP-86 18:46:45  * Evicted job 2, user OPER <CHKPNT> TS
+8-SEP-86 18:46:48  * Reloading system...
+8-SEP-86 18:46:48  ** Session ends.
+
+8-SEP-86 18:19:37  ** Session begins: TAKEIT version 47.
+8-SEP-86 18:19:37  * Username: JMS
+8-SEP-86 18:19:45  RELOAD 0 (M33)F3XP35
+8-SEP-86 18:19:48  * Countdown = 0 minutes, Grace = 1
+8-SEP-86 18:19:48  * Reloading X930-P034/P35 from (M33)F3XP35
+8-SEP-86 18:19:49  * System super shut (0 -> 600000)
+8-SEP-86 18:19:50  * Evicted job 1, user OPER <EXECX> RN
+8-SEP-86 18:19:50  * Evicted job 4, user OPER <XEXEC> RN
+8-SEP-86 18:19:58  * Evicted job 2, user OPER <CHKPNT> ML
+8-SEP-86 18:20:01  * Reloading system...
+8-SEP-86 18:20:01  ** Session ends.
+
+2-SEP-86 18:33:09  ** Session begins: TAKEIT version 47.
+2-SEP-86 18:33:09  * Username: JMS
+2-SEP-86 18:33:10  HANG 
+2-SEP-86 18:33:11  * Evicted job 1, user OPER <EXECX> RN
+2-SEP-86 18:33:11  * Evicted job 4, user OPER <XEXEC> RN
+2-SEP-86 18:33:19  * System shut (0 -> 400000)
+2-SEP-86 18:33:19  * Evicted job 2, user OPER <CHKPNT> SW
+2-SEP-86 18:33:21  * Hanging system...
+2-SEP-86 18:33:21  ** Session ends.
+
+25-AUG-86 20:43:05  ** Session begins: TAKEIT version 47.
+25-AUG-86 20:43:05  * Username: JMS
+25-AUG-86 20:43:05  * Another job set SCHED 400000 from 0
+25-AUG-86 20:43:07  HANG 
+25-AUG-86 20:43:08  * Evicted job 1, user OPER <EXECX> RN
+25-AUG-86 20:43:08  * Killed job 3, user JMS <TYPE> ^C
+25-AUG-86 20:43:08  * Evicted job 4, user OPER <XEXEC> RN
+25-AUG-86 20:43:17  * Evicted job 2, user OPER <CHKPNT> TS
+25-AUG-86 20:43:20  * Hanging system...
+25-AUG-86 20:43:20  ** Session ends.
+
+25-AUG-86 14:44:58  ** Session begins: TAKEIT version 47.
+25-AUG-86 14:44:58  * Username: JMS
+25-AUG-86 14:45:05  RELOAD 0 NEWMON
+25-AUG-86 14:45:18  RELOAD 2 NEWMON
+25-AUG-86 14:45:20  * Countdown = 2 minutes, Grace = 1
+25-AUG-86 14:45:20  * Reloading X930-P034/P34 from (SYS)NEWMON
+25-AUG-86 14:45:20  * Warning: 2 minutes /JMS
+25-AUG-86 14:46:20  * System shut (0 -> 400000)
+25-AUG-86 14:46:21  * Warning: 1 minute /JMS
+25-AUG-86 14:47:21  * System super shut (400000 -> 600000)
+25-AUG-86 14:47:21  * Warning: 0 minutes /JMS
+25-AUG-86 14:47:21  * Evicted job 1, user OPER <EXECX> RN
+25-AUG-86 14:47:21  * Killed job 3, user JMS <RPG> ^C
+25-AUG-86 14:47:22  * Evicted job 4, user OPER <XEXEC> RN
+25-AUG-86 14:47:30  * Evicted job 2, user OPER <CHKPNT> ML
+25-AUG-86 14:47:34  * Reloading system...
+25-AUG-86 14:47:34  ** Session ends.
+
+20-AUG-86 12:00:25  ** Session begins: TAKEIT version 47.
+20-AUG-86 12:00:25  * Username: JMS
+20-AUG-86 12:00:34  RELOAD 0 NEWMON
+20-AUG-86 12:00:37  * Countdown = 0 minutes, Grace = 1
+20-AUG-86 12:00:37  * Reloading X930-P034/P34 from (SYS)NEWMON
+20-AUG-86 12:00:38  * System super shut (0 -> 600000)
+20-AUG-
+** file truncated **
+ u1*
